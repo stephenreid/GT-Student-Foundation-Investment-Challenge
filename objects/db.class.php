@@ -1,5 +1,4 @@
 <?
-//Thanks Slava Shirokav and Sean Bryant
 
 
 
